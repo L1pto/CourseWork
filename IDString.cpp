@@ -54,7 +54,7 @@ if ((char_pointer[0] >= '0'&& char_pointer[0] <= '9') || (char_pointer[0] == ' '
 		}
 	}
 
-IDString::IDString(const IDString &from) : Base_String(from) {  }//конструктор копирования
+#IDString::IDString(const IDString &from) : Base_String(from) {  }//конструктор копирования
 
 IDString::~IDString() {
 	cout << "~IDString()" << endl;
