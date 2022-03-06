@@ -7,4 +7,4 @@ To acquire the skill of developing programs using the capabilities of object-ori
 
 
 **Development of classes:**
-Development of classes: the "STROCK" base class, derived classes "STROKE_IDENTIFICATOR" and "TINY_STROKE" classes according to the technical specification.
+Development of classes: the "STRING" base class, derived classes "STRING_IDENTIFICATOR" and "DECIMAL_STRING" classes according to the technical specification.
